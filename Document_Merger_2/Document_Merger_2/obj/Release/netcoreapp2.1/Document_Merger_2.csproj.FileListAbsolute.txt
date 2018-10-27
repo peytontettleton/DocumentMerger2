@@ -8,3 +8,9 @@
 /Users/peytontettleton/Desktop/Visual Studio Stuffs/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.AssemblyInfo.cs
 /Users/peytontettleton/Desktop/Visual Studio Stuffs/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.dll
 /Users/peytontettleton/Desktop/Visual Studio Stuffs/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.pdb
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.csprojAssemblyReference.cache
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.csproj.CoreCompileInputs.cache
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.AssemblyInfoInputs.cache
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.AssemblyInfo.cs
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.dll
+/Users/peytontettleton/Desktop/Visual_Studio_Stuffs/DocumentMerger2/Document_Merger_2/Document_Merger_2/obj/Release/netcoreapp2.1/Document_Merger_2.pdb
